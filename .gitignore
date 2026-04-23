@@ -1,0 +1,10 @@
+node_modules
+.next
+playwright-report
+test-results
+coverage
+.vercel
+*.tsbuildinfo
+.DS_Store
+package-lock.json
+
