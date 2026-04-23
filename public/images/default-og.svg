@@ -1,0 +1,13 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F3EFE6"/>
+  <rect x="52" y="52" width="1096" height="526" rx="36" fill="#FFF7EE" stroke="#111111" stroke-opacity="0.12"/>
+  <circle cx="922" cy="176" r="124" fill="#F06F49" fill-opacity="0.2"/>
+  <circle cx="1012" cy="356" r="84" fill="#3D69C9" fill-opacity="0.14"/>
+  <text x="96" y="260" fill="#111111" font-size="72" font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    Jeongmingong Archive
+  </text>
+  <text x="96" y="332" fill="#5B544B" font-size="34" font-family="Arial, Helvetica, sans-serif">
+    A personal brand blog for experiments, writing, and product craft.
+  </text>
+</svg>
+

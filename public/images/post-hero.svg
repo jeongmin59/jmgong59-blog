@@ -1,0 +1,11 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="675" fill="#EEE6DB"/>
+  <rect x="52" y="52" width="1096" height="571" rx="44" fill="#111111"/>
+  <path d="M117 497C262 356 410 280 564 280C718 280 862 352 1083 507" stroke="#F06F49" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="370" cy="238" r="90" fill="#F06F49" fill-opacity="0.85"/>
+  <circle cx="825" cy="214" r="64" fill="#3D69C9" fill-opacity="0.75"/>
+  <text x="116" y="164" fill="#F8F2E8" font-size="36" font-family="Arial, Helvetica, sans-serif" letter-spacing="4">
+    BRAND-LED BLOG SYSTEM
+  </text>
+</svg>
+
